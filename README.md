@@ -19,8 +19,8 @@ _🔵geolocator: ^12.0.0
 
 
 # Screenshots
-## NULL Values 👇🏽
+### NULL Values 👇🏽
 ![pic_1](https://github.com/amitshibuk/flutter-weather-app/assets/83702494/6c23fcec-064e-4841-8935-8c07296afc99)
 
-## With Accurately Tracked Values👇🏽
+### With Accurately Tracked Values👇🏽
 ![pic_2](https://github.com/amitshibuk/flutter-weather-app/assets/83702494/a8a85c2e-0bf9-448e-834c-bd6c148477b5)
